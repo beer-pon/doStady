@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context  docBase="sample" path="/sample" reloadable="true" source="org.eclipse.jst.jee.server:sample">
+</Context>
