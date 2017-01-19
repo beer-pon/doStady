@@ -1,0 +1,9 @@
+#進む、戻るボタン用
+.action_button button:hover {  
+    background: -moz-linear-gradient(top, #fff, #e1e1e1 1%, #e1e1e1 50%, #cfcfcf 99%, #ccc);  
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(0.01, #e1e1e1), color-stop(0.5, #e1e1e1), color-stop(0.99, #cfcfcf), to(#ccc));  
+} 
+.action_button button:active    {  
+    background: #ccc;  
+    padding: 6px 20px 4px;  
+}  
